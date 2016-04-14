@@ -4,7 +4,7 @@
   <li style="list-style-type: '🤵 ">男，1996/06，Web 前端工程师，1 年工作经验</li>
   <li style="list-style-type: '🏫 ">南京大学数学系，本科，2011-2015，CET-6</li>
   <li style="list-style-type: '🏠 ">http://handsomeone.com/</li>
-  <li style="list-style-type: '📱 ">18252063635</li>
+  <li style="list-style-type: '📞 ">18252063635</li>
   <li style="list-style-type: '📧 ">i@handsomeone.com</li>
 </ul>
 
