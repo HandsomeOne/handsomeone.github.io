@@ -25,11 +25,11 @@
 
 在校期间：
 
-- 2013/03 - 2013/06 南京大学“米课”选修课评价平台 ( http://micourse.net/ ) - 包含用户系统与课程评价系统，方便学生选择自己喜爱的课程
+- 2013/03 - 2013/06 南京大学“米课”选修课评价平台（http://micourse.net/）- 包含用户系统与课程评价系统，方便学生选择自己喜爱的课程
   - 第一次接触 Web 开发，作为组里唯一的 UI 设计师和 Web 前端工程师，从无到有自学了 Web 三剑客的基础并投入实践。
   - 参与了产品的决策过程，产品发布三个月内，我校约有一半的本科生是我们的用户。
 
-- 长期承包我系的所有讲座海报设计 ( http://handsomeone.com/blog/lecture-posters/ )。
+- 长期承包我系的所有讲座海报设计（http://handsomeone.com/blog/lecture-posters/）。
 
 其它：
-- 我的 GitHub 主页 ( https://github.com/HandsomeOne/ )
+- 我的 GitHub 主页（https://github.com/HandsomeOne/）
