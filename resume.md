@@ -4,8 +4,12 @@
 - 18252063635
 - i@handsomeone.com
 
+---
+
 - 南京大学数学系，本科，2011-2015，CET-6
 - https://github.com/HandsomeOne/
+
+---
 
 - 我对 JavaScript 有深入理解，熟悉其面向对象编程，踩过 JavaScript 的各种坑
 - 我可以绘制符合规范的、精确到像素的 HTML 页面
